@@ -12,3 +12,6 @@ i have build random forest model to predict the survived passenger in titanic in
 
 
 ### Automated Update - Sat Feb  1 06:42:42 UTC 2025 🚀
+
+
+### Automated Update - Sat Feb  1 06:54:22 UTC 2025 🚀
